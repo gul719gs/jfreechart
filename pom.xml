@@ -56,6 +56,9 @@
         <project.release.level>11</project.release.level>
         <project.source.level>11</project.source.level>
         <project.target.level>11</project.target.level>
+       
+  <sonar.organization>gul-research</sonar.organization>
+
     </properties>
 
     <dependencies>
